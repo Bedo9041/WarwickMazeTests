@@ -1,0 +1,10 @@
+Type: WarwickMaze
+Version: 1.0
+Width: 5
+Height: 5
+HeaderEnd
+#####
+#v..#
+###.#
+#..F#
+#####
